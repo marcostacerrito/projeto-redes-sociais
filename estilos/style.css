@@ -35,10 +35,10 @@ section#telefone {
 
 iframe#tela {
     position:relative;
-    top: 81px;
-    left: 24px;
-    width:264px;
-    height:469px;
+    top: 80px;
+    left: 22px;
+    width:267px;
+    height:471px;
 }
 
 section#redes-sociais {
@@ -50,6 +50,7 @@ section#redes-sociais img {
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px black;
+    
    
 }
 
